@@ -1,0 +1,5 @@
+/.idea/
+/logs/*.log
+/report/APT_TEST_V*/
+/pytest_report/html_report/*
+/pytest_report/json_report/*
