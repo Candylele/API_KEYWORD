@@ -5,3 +5,4 @@ list = []
 print(list)
 for variable in list:
     print("@@@@@@@@@@@@@@@@这是variable: %s@@@@@@@@@@@@@@@@@@@" % variable)
+    print('hello word!')
