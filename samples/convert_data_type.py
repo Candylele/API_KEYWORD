@@ -25,7 +25,6 @@ for row_index in range(1,excel_utils.get_row_count()):
 for data in excel_data:
     print( data )
 
-
 import json
 request_info = {"请求头部信息":'{"aaa":1}'}
 headers = json.loads(request_info['请求头部信息']) if request_info['请求头部信息'] else None
