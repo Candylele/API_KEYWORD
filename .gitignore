@@ -4,7 +4,7 @@
 /pytest_report/html_report/*
 /pytest_report/json_report/*
 
-# 忽略所有 .log 文件
+# 忽略所有 .log 等文件
 *.log
 *.csv
 *.json
